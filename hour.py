@@ -9,7 +9,7 @@ class Hour(object):
     def post_hour(self):
         self.hour = [
                 [int(input('\nHorario do post {} : '.format(hour_count))),
-                int(input('Minuto : '))]
+                        int(input('Minuto : '))]
                 for hour_count in range(1, self.post + 1)
                             ]
         self.hour_check()
