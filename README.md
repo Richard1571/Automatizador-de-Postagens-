@@ -1,6 +1,6 @@
-<h1 color="blue"> Automatizador de Postangens Facebook</h1>
-<div align="center">
-  <img src="http://www.giantstep.ca/wp/wp-content/uploads/2017/04/Facebook_Application_Development.jpg">
+<h1 color="red"> Automatizador de Postangens Facebook</h1>
+<div>
+  <img src="http://videoadvertisingnews.com/wp-content/uploads/2017/02/facebook.png">
 </div>
 <p>Script para fazer postagens no facebook em determinados horarios</p>
 <p>Importante ter o token da pagina antes de executar o programa</p>
