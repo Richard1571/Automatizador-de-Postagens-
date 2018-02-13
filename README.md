@@ -10,4 +10,4 @@
 <p>git clone https://github.com/Richard1571/Automatizador-de-Postagens-</p>
 
 <h3>Imagens</h3>
-<p> Imagens devem ser colocadas dentro de sua devida pasta para efitar erros no programa</p>
+<p> Imagens devem ser colocadas dentro de sua devida pasta para evitar erros no programa</p>
