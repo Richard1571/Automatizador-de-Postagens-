@@ -1,4 +1,3 @@
-import facebook
 import os
 from datetime import datetime
 from facebook_post import Post
