@@ -20,7 +20,7 @@ class Hour(object):
     def hour_check(self):
         for check in self.hour:
             if (check[0] > 23 or check[0] < 0
-                    and check[1] > 59 and check[1] < 0):
+                    and check[1] > 59 or check[1] < 0):
                 print('Horario Invalido.')
                 print('\n')
                 self.post_hour()
